@@ -1,5 +1,6 @@
-Diretório referente os arquivos elaborados para prototipação das telas via FIGMA, disponível no link 
-
+Diretório referente os arquivos elaborados para prototipação das telas via FIGMA, convertendo padrões utilizando: 
+   FIGMA - https://www.figma.com/design/6DhLGQekGO7xXCO3seqcQF/Monitoramento-de-Cancer?node-id=299-101&t=YazQ2IYQRcdU37YE-0
+   PXCODE - https://instant.pxcode.io/home
 
 Tela 1) Login - 
 https://www.figma.com/design/6DhLGQekGO7xXCO3seqcQF/Monitoramento-de-Cancer?node-id=159-8&t=gFytMDT5wv2bBBlP-4
