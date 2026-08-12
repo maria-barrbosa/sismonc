@@ -4,6 +4,7 @@ Autoria:  Maria de Fatima Barbosa <barbosamariaf27@gmail.com>
 Data de Atualização: 11/08/2026.
 
 Orientação: André Fabiano de Moraes <andre.moraes@ifc.edu.br>
+
 ---
 
 
