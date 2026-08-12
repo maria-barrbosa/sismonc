@@ -1,4 +1,4 @@
-## SISMONC - Sistema de Monitoramento ... ## 
+## SISMONC - Sistema de Suporte e Monitoramento para Paciente Oncológico... ## 
 Este diretório serve para armazenar protótipo e documentos referente ao projeto de TCC-II.
 
 Autoria:  Maria de Fatima Barbosa <barbosamariaf27@gmail.com>
