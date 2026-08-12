@@ -1,4 +1,6 @@
-## Este diretório serve para armazenar protótipo e documentos referente ao projeto de TCC-II. ## 
+## SISMONC - Sistema de Monitoramento ... ## 
+Este diretório serve para armazenar protótipo e documentos referente ao projeto de TCC-II.
+
 Autoria:  Maria de Fatima Barbosa <barbosamariaf27@gmail.com>
 
 Data de Atualização: 11/08/2026.
