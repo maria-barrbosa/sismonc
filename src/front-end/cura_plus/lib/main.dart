@@ -13,7 +13,6 @@ class CuraPlus extends StatelessWidget {
     return MaterialApp(
       title: 'CURA+',
       theme: ThemeData(
-        
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
       home: const WelcomePage(),
